@@ -8,7 +8,7 @@ class Input extends Component {
 
     render() {
         return (
-            <div>
+            <div className='inputSize'>
                 <h1>Welcome to KnifeX</h1>
                 <input placeholder='Add a Knife'></input><button className='addKnifeBtn'>GO!</button>
                 <br></br>

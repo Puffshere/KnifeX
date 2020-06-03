@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 import Input from './Input';
+import Login from './Login';
 
 function App() {
   return (
     <div className="App">
+      <Login />
       <header className="App-header">
         <img src='Knife.png' className="App-logo" alt="logo" />
         <Input />
