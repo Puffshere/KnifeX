@@ -9,8 +9,10 @@ class Input extends Component {
     render() {
         return (
             <div>
-                <p>"Hello I am here"</p>
+                <h1>Welcome to KnifeX</h1>
                 <input placeholder='Add a Knife'></input><button className='addKnifeBtn'>GO!</button>
+                <br></br>
+                <input placeholder='Search for a Knife'></input><button className='addKnifeBtn'>GO!</button>
             </div>
         )
     }
