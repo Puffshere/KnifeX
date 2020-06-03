@@ -1,0 +1,19 @@
+import React, { Component } from 'react';
+
+class Input extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {}
+    }
+
+    render() {
+        return (
+            <div>
+                <p>"Hello I am here"</p>
+                <input></input>
+            </div>
+        )
+    }
+}
+
+export default Input;
