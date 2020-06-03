@@ -13,7 +13,6 @@ class Input extends Component {
                 <input placeholder='Add a Knife'></input><button className='addKnifeBtn'>GO!</button>
                 <br></br>
                 <input placeholder='Search for a Knife'>
-                   
                 </input>
                 <button className='addKnifeBtn'>GO!</button>
             </div>
