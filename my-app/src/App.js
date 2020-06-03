@@ -9,16 +9,17 @@ function App() {
       <header className="App-header">
       <Login />
         <img src='Knife.png' className="App-logo" alt="logo" />
-        <Input />
+        {/* <Input /> */}
+        <h1 className='titleEffects'>Welcome to KnifeX</h1>
         <br></br>
-        <a
+        {/* <a
           className="App-link"
           href="https://shawncurtistaylor@hotmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           Contact Me
-        </a>
+        </a> */}
       </header>
     </div>
   );
