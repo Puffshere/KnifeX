@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.addKnifeBtn {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}

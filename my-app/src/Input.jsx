@@ -10,7 +10,7 @@ class Input extends Component {
         return (
             <div>
                 <p>"Hello I am here"</p>
-                <input></input>
+                <input placeholder='Add a Knife'></input><button className='addKnifeBtn'>GO!</button>
             </div>
         )
     }
