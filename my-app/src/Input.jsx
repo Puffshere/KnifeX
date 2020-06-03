@@ -9,10 +9,13 @@ class Input extends Component {
     render() {
         return (
             <div className='inputSize'>
-                <h1>Welcome to KnifeX</h1>
+                <h1 className='titleEffects'>Welcome to KnifeX</h1>
                 <input placeholder='Add a Knife'></input><button className='addKnifeBtn'>GO!</button>
                 <br></br>
-                <input placeholder='Search for a Knife'></input><button className='addKnifeBtn'>GO!</button>
+                <input placeholder='Search for a Knife'>
+                   
+                </input>
+                <button className='addKnifeBtn'>GO!</button>
             </div>
         )
     }

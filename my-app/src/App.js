@@ -6,8 +6,8 @@ import Login from './Login';
 function App() {
   return (
     <div className="App">
-      <Login />
       <header className="App-header">
+      <Login />
         <img src='Knife.png' className="App-logo" alt="logo" />
         <Input />
         <br></br>

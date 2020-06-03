@@ -47,6 +47,11 @@
   padding-bottom: 1px;
 }
 
-.login {
+.titleEffects {
+  text-shadow: 2px 2px 2px black;
+}
 
+.login {
+  text-shadow: .5px .5px .5px black;
+  font-size: 20px;
 }
